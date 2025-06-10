@@ -1,0 +1,16 @@
+{
+  "name": "AutomationSoftwareQualityAssuranceAnalyst_TechnicalTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.10.0",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30"
+  }
+}
